@@ -5,6 +5,5 @@ System.out.print("Hello world");
 System.out.print("Hello worl22d");
 System.out.print("Hellbjnjm world");
 
-System.out.print("Hello world again");
 }
 }
